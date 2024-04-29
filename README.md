@@ -59,7 +59,7 @@ To build a noise maker, you will need:
 
 ## Tests
 
-![](/videos/Test_single.mp4.jpg)
+![](/https://github.com/auzal/noise_makers/blob/main/videos/Test_single.mp4)
 
 
 
