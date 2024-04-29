@@ -24,7 +24,7 @@ These devices are printed as a single piece.
 Some notes on the printing process:
 - all tests have been made with PLA
 - prints have been tested up to .28 mm layer height. They should work up to .4 mm
-- the mouthpiece will need supports. Make sure to not include supports inside the chambers or it may be difficult to remove
+- the mouthpiece will need supports. Make sure to not include support inside the chambers or it may be difficult to remove
 - an infill of about 15% is more than enough
 
 #### Step 2 - Gather materials
