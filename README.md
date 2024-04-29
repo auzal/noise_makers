@@ -24,7 +24,6 @@ To build a noise maker, you will need:
 - a nitrile glove (latex gloves, balloons, or plastic bags can also be used) 
 
 ![](/guidePhotos/NOISE_-01.jpg)
-materials gathered
 
 #### Step 2 - Remove supports from 3D printed body
  
