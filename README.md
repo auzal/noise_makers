@@ -8,12 +8,12 @@ Developed during the UCLA Graduate strike of 2022.
 
 ## Table of contents:
 
--[3D printable files](#3d-printable-files)
--[Assembly guide](#assembly-guide)
--[Test videos](#test-videos)
--[Design](#design)
--[Variations](#variations)
--[Earlier versions](#earlier-versions) 
+- [3D printable files](#3d-printable-files)
+- [Assembly guide](#assembly-guide)
+- [Test videos](#test-videos)
+- [Design](#design)
+- [Variations](#variations)
+- [Earlier versions](#earlier-versions) 
 
 ## 3D printable files
 
@@ -125,10 +125,14 @@ Single chamber design sized to fit into a 2 inch PVC pipe.
 ![](/guidePhotos/NOISE_-20.jpg)
 Fitted into a section of pipe and sealed in place with duct tape.
 
+https://github.com/auzal/noise_makers/assets/3940167/308d74f6-2402-479b-8176-515639adbdc4
+
 ### Sliding bass version
 
 ![](/guidePhotos/NOISE_-19.jpg)
 Same as above, but with a section of narrower pipe (fitted with a handle), that can slide to alter the pitch as it is being played (the longer the pipe, the lower the pitch).
+
+https://github.com/auzal/noise_makers/assets/3940167/3bd1a570-b454-4dcb-a997-6549486a73a5
 
 ### Water jug version
 
@@ -137,6 +141,8 @@ Single chamber design sized to fit into a plastic 5 gallon water jug.
 
 ![](/guidePhotos/NOISE_-22.jpg)
 Sealed with duct tape and several rubber bands.
+
+https://github.com/auzal/noise_makers/assets/3940167/67fd31fe-8686-4035-b40f-396b7f1409d7
 
 ## Earlier versions
 
@@ -150,9 +156,14 @@ Simple design with a short section of 2 inch PVC pipe.
 
 ![](/guidePhotos/NOISE_-16.jpg)
 
+https://github.com/auzal/noise_makers/assets/3940167/2ded6478-1d6d-43bf-803e-398daab9d750
+
 ### Double glove noise maker
 
 ![](/guidePhotos/NOISE_-15.jpg)
 Two noise makers taped together create different tones (and offer more visual impact!).
 
 ![](/guidePhotos/NOISE_-17.jpg)
+
+https://github.com/auzal/noise_makers/assets/3940167/32b1c8c3-c968-47c1-9769-f9f9e4fa35f9
+
