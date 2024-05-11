@@ -8,12 +8,12 @@ Developed during the UCLA Graduate strike of 2022.
 
 ## Table of contents:
 
-- [3D printable files](#3d-printable-files)
-- [Assembly guide](#assembly-guide)
-- [Test videos](#test-videos)
-- [Design](#design)
-- [Variations](#variations)
-- [Earlier versions](#earlier-versions) 
+### - [3D printable files](#3d-printable-files)
+### - [Assembly guide](#assembly-guide)
+### - [Test videos](#test-videos)
+### - [Design](#design)
+### - [Variations](#variations)
+### - [Earlier versions](#earlier-versions) 
 
 ## 3D printable files
 
