@@ -171,9 +171,12 @@ https://github.com/auzal/noise_makers/assets/3940167/32b1c8c3-c968-47c1-9769-f9f
 ## Background
 
 
-While on a rally during the [2022 University of California academic workers' strike](https://en.wikipedia.org/wiki/2022_University_of_California_academic_workers%27_strike), my friend (and fellow UCLA DMA graduate student) [Wiley Wiggins](https://wileywiggins.com/) and I some some other students with noise makers made out of paper towel tubes. We took note of the design and began experimenting in our department's fabrication laboratory to make similar devices. The initial version of these devices was bagpipe-like, made from discarded cardboard tubes and rubber gloves (as featured [above](#earlier-versions)). 
+While on a rally during the [2022 University of California academic workers' strike](https://en.wikipedia.org/wiki/2022_University_of_California_academic_workers%27_strike), my friend (and fellow UCLA DMA graduate student) [Wiley Wiggins](https://wileywiggins.com/) and I saw some some other students with noise makers made out of paper towel tubes. We took note of the design and began experimenting in our department's fabrication laboratory to make similar devices. The initial version of these devices was bagpipe-like, made from discarded cardboard tubes and rubber gloves (as featured [above](#earlier-versions)). Wiley and I hosted a couple of sessions in the lab to show other students how to build the noise makers. 
 
-As the strike developed, I kept working through iterations of these noise makers, eventually arriving at a version that is compact, easy to make and produces very loud sounds. The final design is meant to be easy to conceal, small enough to be used with one hand, and simple and cheap to reproduce (it can be created out of PVC pipes, or 3D printed as a single part).
+![](/guidePhotos/noise_marching.jpg)
+DMA marching band during the 2022 strike
+
+As the strike continued, I kept working through iterations of these noise makers, eventually arriving at a version that is compact, easy to make and produces very loud sounds. The final design is meant to be easy to conceal, small enough to be used with one hand, and simple and cheap to reproduce (it can be created out of PVC pipes, or 3D printed as a single part).
 
  These noise making objects serve several purposes. In terms of sound and its relation to protest, they allow us to be heard (by us -those who are protesting- and by them -those who we stand against-), they are political in their design and creation, they serve to unite through their sound (they act as beacons of togetherness and safety), and they allow for disruption. Additionally, they are tools for communal play and experimentation. They can be gifted, shared freely, and played with others. 
  
@@ -185,5 +188,3 @@ She refers to “un golpe mágico que es ayudar a la liberación” (“a magica
 
 [^1]: Vicuña, Cecilia, and Felipe Ehrenberg. Saborami. Beau Geste Press, 1973.
 
-![](/guidePhotos/noise_marching.jpg)
-DMA marching band during the 2022 strike
