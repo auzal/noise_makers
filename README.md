@@ -2,18 +2,19 @@
 
 Simple 3D printable noise makers. Use for fighting colonialism, fascism and unfair labor practices. 
 
-Developed during the UCLA Graduate strike of 2022.
+Developed during the UCLA Graduate strike of 2022. More info [here](#background).
 
 ![](/guidePhotos/NOISE_-12.jpg)
 
 ## Table of contents:
 
-### - [3D printable files](#3d-printable-files)
-### - [Assembly guide](#assembly-guide)
-### - [Test videos](#test-videos)
-### - [Design](#design)
-### - [Variations](#variations)
-### - [Earlier versions](#earlier-versions) 
+- [3D printable files](#3d-printable-files)
+- [Assembly guide](#assembly-guide)
+- [Test videos](#test-videos)
+- [Design](#design)
+- [Variations](#variations)
+- [Earlier versions](#earlier-versions) 
+- [Background](#background)
 
 ## 3D printable files
 
@@ -115,7 +116,7 @@ These devices were modeled in Fusion 360. The design files can be found in the [
 
 ## Variations
 
-The single chamber noise maker can be printed to fit directly on different cylindrical objects. Experiment with what you have around! Make sure you seal the joint so no air can escape.
+The single chamber noise maker can be printed to fit directly on different cylindrical objects. This will allow you to achieve lower frequencies and louder volumes. Experiment with what you have around! Make sure you seal the joint so no air can escape. 
 
 ### Bass version
 
@@ -167,3 +168,22 @@ Two noise makers taped together create different tones (and offer more visual im
 
 https://github.com/auzal/noise_makers/assets/3940167/32b1c8c3-c968-47c1-9769-f9f9e4fa35f9
 
+## Background
+
+
+While on a rally during the [2022 University of California academic workers' strike](https://en.wikipedia.org/wiki/2022_University_of_California_academic_workers%27_strike), my friend (and fellow UCLA DMA graduate student) [Wiley Wiggins](https://wileywiggins.com/) and I some some other students with noise makers made out of paper towel tubes. We took note of the design and began experimenting in our department's fabrication laboratory to make similar devices. The initial version of these devices was bagpipe-like, made from discarded cardboard tubes and rubber gloves (as featured [above](#earlier-versions)). 
+
+As the strike developed, I kept working through iterations of these noise makers, eventually arriving at a version that is compact, easy to make and produces very loud sounds. The final design is meant to be easy to conceal, small enough to be used with one hand, and simple and cheap to reproduce (it can be created out of PVC pipes, or 3D printed as a single part).
+
+ These noise making objects serve several purposes. In terms of sound and its relation to protest, they allow us to be heard (by us -those who are protesting- and by them -those who we stand against-), they are political in their design and creation, they serve to unite through their sound (they act as beacons of togetherness and safety), and they allow for disruption. Additionally, they are tools for communal play and experimentation. They can be gifted, shared freely, and played with others. 
+ 
+ Their compact size and portability also grant them an amulet-like quality, an object one may hold closely in difficult times. Cecilia Vicuña speaks of the multidimensionality of objects in her 1973 book “Saborami”[^1]:
+
+	“Los objetos tratan de matar tres pájaros de un solo tiro: hacer un trabajo mágico, uno revolucionario y uno estético. ” (“Objects try to kill three birds with one stone: they do magical wok, revolutionary work, and aesthetic work.”)
+
+She refers to “un golpe mágico que es ayudar a la liberación” (“a magical strike that helps liberation”), “un golpe politico” (“a political strike”) that is revolutionary, and “un golpe estético: tienen que ser bellos para darle fuerza al alma” (“an aesthetic strike: they -objects- must be beautiful to give strength to the soul”).
+
+[^1]: Vicuña, Cecilia, and Felipe Ehrenberg. Saborami. Beau Geste Press, 1973.
+
+![](/guidePhotos/noise_marching.jpg)
+DMA marching band during the 2022 strike
