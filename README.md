@@ -179,7 +179,7 @@ As the strike developed, I kept working through iterations of these noise makers
  
  Their compact size and portability also grant them an amulet-like quality, an object one may hold closely in difficult times. Cecilia Vicuña speaks of the multidimensionality of objects in her 1973 book “Saborami”[^1]:
 
-	“Los objetos tratan de matar tres pájaros de un solo tiro: hacer un trabajo mágico, uno revolucionario y uno estético. ” (“Objects try to kill three birds with one stone: they do magical wok, revolutionary work, and aesthetic work.”)
+> “Los objetos tratan de matar tres pájaros de un solo tiro: hacer un trabajo mágico, uno revolucionario y uno estético. ” (“Objects try to kill three birds with one stone: they do magical wok, revolutionary work, and aesthetic work.”)
 
 She refers to “un golpe mágico que es ayudar a la liberación” (“a magical strike that helps liberation”), “un golpe politico” (“a political strike”) that is revolutionary, and “un golpe estético: tienen que ser bellos para darle fuerza al alma” (“an aesthetic strike: they -objects- must be beautiful to give strength to the soul”).
 
