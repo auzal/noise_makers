@@ -188,3 +188,5 @@ She refers to “un golpe mágico que es ayudar a la liberación” (“a magica
 
 [^1]: Vicuña, Cecilia, and Felipe Ehrenberg. Saborami. Beau Geste Press, 1973.
 
+### An expaned version of this text can be found [here](Uzal-Notes-on-sound.pdf)
+
